@@ -9,6 +9,10 @@
 /* Begin PBXBuildFile section */
 		9C32AD9223C102A300446CE0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32AD9123C102A300446CE0 /* main.swift */; };
 		9C32AD9923C102DE00446CE0 /* B1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C32AD9823C102DE00446CE0 /* B1.swift */; };
+		9C37C09623C32057000E13DD /* B2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C37C09523C32057000E13DD /* B2.swift */; };
+		9C37C09823C32302000E13DD /* B3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C37C09723C32302000E13DD /* B3.swift */; };
+		9C37C09A23C32696000E13DD /* B4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C37C09923C32696000E13DD /* B4.swift */; };
+		9C41BB8D23C32C050039877F /* B5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C41BB8C23C32C050039877F /* B5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +31,10 @@
 		9C32AD8E23C102A300446CE0 /* BTVN_Buoi04_05_01 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BTVN_Buoi04_05_01; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C32AD9123C102A300446CE0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9C32AD9823C102DE00446CE0 /* B1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B1.swift; sourceTree = "<group>"; };
+		9C37C09523C32057000E13DD /* B2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B2.swift; sourceTree = "<group>"; };
+		9C37C09723C32302000E13DD /* B3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B3.swift; sourceTree = "<group>"; };
+		9C37C09923C32696000E13DD /* B4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B4.swift; sourceTree = "<group>"; };
+		9C41BB8C23C32C050039877F /* B5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +69,10 @@
 			children = (
 				9C32AD9123C102A300446CE0 /* main.swift */,
 				9C32AD9823C102DE00446CE0 /* B1.swift */,
+				9C37C09523C32057000E13DD /* B2.swift */,
+				9C37C09723C32302000E13DD /* B3.swift */,
+				9C37C09923C32696000E13DD /* B4.swift */,
+				9C41BB8C23C32C050039877F /* B5.swift */,
 			);
 			path = BTVN_Buoi04_05_01;
 			sourceTree = "<group>";
@@ -123,8 +135,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C37C09823C32302000E13DD /* B3.swift in Sources */,
 				9C32AD9923C102DE00446CE0 /* B1.swift in Sources */,
+				9C41BB8D23C32C050039877F /* B5.swift in Sources */,
 				9C32AD9223C102A300446CE0 /* main.swift in Sources */,
+				9C37C09A23C32696000E13DD /* B4.swift in Sources */,
+				9C37C09623C32057000E13DD /* B2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

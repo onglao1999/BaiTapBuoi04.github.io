@@ -10,4 +10,15 @@ import Foundation
 func tongSTN(){
     print("Nhập số tự nhiên từ bàn phím: ", terminator: "")
     var a: Int = Int(readLine() ?? "0") ?? 0
+    var tong: Int = 0
+    if a == 0 {
+        print("Tổng các chữ số của số \(a) bằng: 0")
+    } else {
+    while a != 0 {
+        tong += a % 10
+        a /= 10
+    }
+         print("Tổng các chữ số của số \(a) bằng: \(tong)")
+    }
+   
 }

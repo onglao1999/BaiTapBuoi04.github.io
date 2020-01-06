@@ -21,3 +21,24 @@
  */
 
 import Foundation
+
+
+//B1
+tongSTN()
+print("---")
+
+//B2
+b2()
+print("---")
+
+//B3
+b3()
+print("---")
+
+//B4
+b4()
+print("---")
+
+//B5
+b5()
+print("---")
